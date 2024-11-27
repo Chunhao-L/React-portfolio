@@ -1,0 +1,29 @@
+[
+    {
+      "role": "Developer",
+      "organisation": "Australian Catholic University",
+      "startDate": "Mar, 2022",
+      "endDate": "Aug, 2024",
+      "experiences": ["Work on Course Coordinator Systems", "Developed user-friendly web page", "Enhanced and Optimized backend functions", "Developed several oracle database packages to integrate and transfer data"],
+      "imageSrc": "history/acu.png"
+    },
+    {
+      "role": "Developer",
+      "organisation": "Deep Knowledge Education",
+      "startDate": "Dec, 2019",
+      "endDate": "Dec, 2020",
+      "experiences": ["Worked on AI supported Student System", "Developed responsive frontend"],
+      "imageSrc": "history/dke.png"
+    },
+    {
+      "role": "Tutor",
+      "organisation": "Deep Knowledge Education",
+      "startDate": "Dec, 2019",
+      "endDate": "Dec, 2020",
+      "experiences": [
+        "Offered courses to university students",
+        "Gave lessons on SQL, Database Design, Data Warehouse Design, ETL pipelines"
+      ],
+      "imageSrc": "history/dke.png"
+    }
+  ]
